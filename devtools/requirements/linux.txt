@@ -1,0 +1,6 @@
+openmm >= 8.2
+pdbfixer >= 1.12
+numpy
+wheel
+build
+setuptools
